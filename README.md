@@ -1,0 +1,2 @@
+# Syndria
+A minecraft server
